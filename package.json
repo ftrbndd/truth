@@ -117,7 +117,7 @@
     "lodash": "^4.17.21",
     "lossless-json": "^1.0.5",
     "mark-loader": "^0.1.6",
-    "marky": "^1.2.2",
+    "marky": "^1.2.5",
     "mini-css-extract-plugin": "^1.6.0",
     "mkdirp": "^1.0.4",
     "newrelic": "^9.0.2",
