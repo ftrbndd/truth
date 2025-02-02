@@ -1977,10 +1977,10 @@
   dependencies:
     "@types/jest" "*"
 
-"@types/throng@^5.0.4":
-  version "5.0.4"
-  resolved "https://registry.yarnpkg.com/@types/throng/-/throng-5.0.4.tgz#d89173c17c6900c29e8ab964c3e7386972c600c3"
-  integrity sha512-/ILtJTyOCMVQFbcteY5WtMLiESDJkWjXdUfWkXhJZQmLnwvxrdYmfEXdqTb2BkFSrvwWnU63b+jB4O3YOLrClg==
+"@types/throng@^5.0.7":
+  version "5.0.7"
+  resolved "https://registry.yarnpkg.com/@types/throng/-/throng-5.0.7.tgz#5482aaf527363745bc958dcb727ecb5e42b16cbd"
+  integrity sha512-O8TBC55LPTOYPXak2Ft7meBksgHituuw49xx7gZy1+BcCO1tRGGD8Eqp2bFDFcLp0vKrsOg/Y077dmHjGiOmWQ==
 
 "@types/uuid@^8.3.4":
   version "8.3.4"
@@ -7632,11 +7632,6 @@ lodash.debounce@^4.0.8:
   resolved "https://registry.npmjs.org/lodash.debounce/-/lodash.debounce-4.0.8.tgz"
   integrity sha1-gteb/zCmfEAF/9XiUVMArZyk168=
 
-lodash.defaults@^4.0.1:
-  version "4.2.0"
-  resolved "https://registry.npmjs.org/lodash.defaults/-/lodash.defaults-4.2.0.tgz"
-  integrity sha1-0JF4cW/+pN3p5ft7N/bwgCJ0WAw=
-
 lodash.get@^4.0:
   version "4.4.2"
   resolved "https://registry.npmjs.org/lodash.get/-/lodash.get-4.4.2.tgz"
@@ -11561,12 +11556,12 @@ throat@^5.0.0:
   resolved "https://registry.npmjs.org/throat/-/throat-5.0.0.tgz"
   integrity sha512-fcwX4mndzpLQKBS1DVYhGAcYaYt7vsHNIvQV+WXMvnow5cgjPphq5CaayLaGsjRdSCKZFNGt7/GYAuXaNOiYCA==
 
-throng@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.npmjs.org/throng/-/throng-4.0.0.tgz"
-  integrity sha1-mDxroZk7WOroWZmKpof/6I34TBc=
+throng@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/throng/-/throng-5.0.0.tgz#f9550c0221e579073f68a00be33a593d094e4d29"
+  integrity sha512-nrq7+qQhn/DL8yW/wiwImTepfi6ynOCAe7moSwgoYN1F32yQMdBkuFII40oAkb3cDfaL6q5BIoFTDCHdMWQ8Pw==
   dependencies:
-    lodash.defaults "^4.0.1"
+    lodash "^4.17.20"
 
 through2@^2.0.0:
   version "2.0.5"
