@@ -9804,7 +9804,7 @@ react-is@^18.0.0:
   resolved "https://registry.npmjs.org/react-is/-/react-is-18.2.0.tgz"
   integrity sha512-xWGDIW6x921xtzPkhiULtthJHoJvBbF3q26fzloPCK0hsvxtPVelvftw3zjbHWSkR2km9Z+4uxbDDK/6Zw9B8w==
 
-react-lifecycles-compat@^3.0.2, react-lifecycles-compat@^3.0.4:
+react-lifecycles-compat@^3.0.4:
   version "3.0.4"
   resolved "https://registry.npmjs.org/react-lifecycles-compat/-/react-lifecycles-compat-3.0.4.tgz"
   integrity sha512-fBASbA6LnOU9dOU2eW7aQ8xmYBSXUIWr+UmF9b1efZBazGNO+rcXT/icdKnYm2pTwcRylVUYwW7H1PHfLekVzA==
@@ -9846,13 +9846,13 @@ react-overlays@^0.9.3:
     react-transition-group "^2.2.1"
     warning "^3.0.0"
 
-react-redux-loading-bar@^4.0.8:
-  version "4.0.8"
-  resolved "https://registry.npmjs.org/react-redux-loading-bar/-/react-redux-loading-bar-4.0.8.tgz"
-  integrity sha512-BpR1tlYrYKFtGhxa7nAKc0dpcV33ZgXJ/jKNLpDDaxu2/cCxbkWQt9YlWT+VLw1x/7qyNYY4DH48bZdtmciSpg==
+react-redux-loading-bar@^5.0.8:
+  version "5.0.8"
+  resolved "https://registry.yarnpkg.com/react-redux-loading-bar/-/react-redux-loading-bar-5.0.8.tgz#436cdc49a21ac4a2a012ab0511ec488aa4a29513"
+  integrity sha512-fCDt2uN1nJ/OD0GtA87TFQ8ochW5Q0IFcLTP/CfN1bFVty9wYQ62nG42m9n884KCQ6dsiW5Mk6DvQEKEHCGJJQ==
   dependencies:
-    prop-types "^15.6.2"
-    react-lifecycles-compat "^3.0.2"
+    prop-types "^15.7.2"
+    react-lifecycles-compat "^3.0.4"
 
 react-redux@^7.2.4:
   version "7.2.4"
